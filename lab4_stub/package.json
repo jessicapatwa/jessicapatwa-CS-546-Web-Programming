@@ -1,0 +1,16 @@
+{
+  "name": "cs_546_lab_4",
+  "version": "1.0.0",
+  "description": "My lab 4 module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Jessica Patwa 20011972",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "mongodb": "^4.10.0"
+  }
+}
